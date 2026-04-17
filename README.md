@@ -1,4 +1,4 @@
-# Stock Portfolio Tracker
+# Stock Portfolio Tracker 📈
 
 A clean, modular **CLI-based Stock Portfolio Tracker** built entirely with
 Python's standard library — no third-party packages required.
