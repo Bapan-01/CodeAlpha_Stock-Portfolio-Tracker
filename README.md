@@ -85,3 +85,4 @@ TSLA,5,250.00,1250.00
 
 ## Author
 
+> Built as an internship demo project — Python standard library only.
